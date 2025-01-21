@@ -1,3 +1,3 @@
 # cloud-practice
 # add text
-#txt added from wk branch:
+#txt removed from pulled main file through the week2 branch
